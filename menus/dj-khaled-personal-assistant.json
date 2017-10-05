@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle DJ Khaled Personal Assistant",
+        "command": "DJ Khaled:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "DJ Khaled Personal Assistant",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "DJ Khaled:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

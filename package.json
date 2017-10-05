@@ -1,0 +1,13 @@
+{
+  "name": "dj-khaled-personal-assistant",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "We the best!!! 💯",
+  "keywords": ["dj", "khaled", "100", "blessings"],
+  "repository": "https://github.com/atom/dj-khaled-personal-assistant",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
